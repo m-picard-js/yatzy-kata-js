@@ -1,5 +1,7 @@
 # Yatzy Refactoring Kata
 
+This is an answer for the refactoring Kata found [here](https://github.com/emilybache/Yatzy-Refactoring-Kata)
+
 This Refactoring Kata was designed by Jon Jagger and is available in his Cyber-Dojo. See [his blog post](http://jonjagger.blogspot.co.uk/2012/05/yahtzee-cyber-dojo-refactoring-in-java.html)
 
 I have changed it a little, so that the rules more closely match the original game.
